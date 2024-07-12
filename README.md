@@ -1,4 +1,4 @@
-Hi, I’m @kylebeggs, a software engineer in computational physics at [Metalenz](https://metalenz.com/) and PhD Candidate at the University of Central Florida focusing on computational mechanics, specifically on meshless PDE solvers and data-driven approaches to mechanics. My main application for this work is hemodynamic simulations.
+Hi, I’m @kylebeggs, a scientific software engineer at [Metalenz](https://metalenz.com/). My work spans across most aspects of scientific software and simulation, from construction of differential operators for PDE solvers to reduced-order modeling, geometry/CAD operations and meshing, all the way to DevOps. Right now, my work is split in two arenas - electromagnetics/optics and biomechanics.
 
 Check out my website at [kylebeggs.com](https://kylebeggs.com)!
 
