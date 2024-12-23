@@ -1,4 +1,4 @@
-Hi, I’m Kyle Beggs ([@kylebeggs](https://github.com/kylebeggs)), a scientific software engineer at [Metalenz](https://metalenz.com/). My work spans across most aspects of scientific software and simulation, from construction of differential operators for PDE solvers to reduced-order modeling, geometry/CAD operations and meshing, all the way to DevOps. Right now, my work is split in two arenas - electromagnetics/optics and biomechanics.
+Hi, I’m Kyle Beggs ([@kylebeggs](https://github.com/kylebeggs)), a software engineer at [JuliaHub](https://juliahub.com/) building computational biomechanics models. I'm interested in multiscale and multiphysics models in medicine (say that five times fast 🤣) to facilitate fundamental research and as planning tools for medical procedures. Please reach out if any of my packages or work interest you, I'm keen on working with others.
 
 Check out my website at [kylebeggs.com](https://kylebeggs.com)!
 
